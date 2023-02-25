@@ -1,0 +1,275 @@
+/* TITLE HOMEPAGE */
+#title-page{
+    background-image: url("images/background-home-desktop.jpg");
+}
+.astralword{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6.5rem;
+    letter-spacing: 5px;
+    font-weight: 100;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 800;
+}
+p{
+    color: rgb(127, 140, 152);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.container-fluid{
+    padding: 3% 13%;
+}
+.para{
+    color: rgb(181, 203, 224);
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.hr1{
+    color: rgb(255, 255, 255);
+    width: 26%;
+    border-style:solid; 
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+
+
+
+/* Navigation bar */
+.navbar{
+    padding-bottom: 1rem;
+    -webkit-backdrop-filter: blur(80px);
+    backdrop-filter: blur(80px);
+    
+}
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: rgb(86, 172, 203);
+}
+.nav-item{
+    padding: 0 20px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.row{
+    padding-top: 8%;
+}
+
+
+
+
+/* Download Buttons */
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+.btn5{
+    font-family: 'Montserrat', sans-serif; 
+    color: #fff; 
+    background: linear-gradient(90deg, #0066CC 0%, #c500cc 100%);
+    padding: 10px 50px;   
+    border: none; 
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px; 
+    transition : 500ms; 
+    transform: translateY(0); 
+}   
+.btn5:hover{ 
+    transition : 500ms; 
+    transform : translateY(-10px); 
+    background: linear-gradient(90deg, #0066CC 0%, #c500cc 100%); 
+    color: #ffffff; 
+    border: none; 
+}
+   
+.getaccessbutton{
+    text-align: center;
+}
+.btnsignup{
+    font-family: 'Montserrat', sans-serif; 
+    color: #ffffff; 
+    background: linear-gradient(90deg, #0066CC 0%, #c500cc 100%);
+    border: none; 
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px; 
+    transition : 500ms; 
+    transform: translateY(0);
+}
+.btnsignup:hover{ 
+    transition : 500ms; 
+    transform : translateY(-6px); 
+    background: linear-gradient(90deg, #0066CC 0%, #c500cc 100%); 
+    color: #ffffff; 
+    border: none; 
+}
+
+
+/* Features */
+.feature-h2{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: black;
+}
+.feature-p{
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    color: #8f8f8f;
+}
+.icof:hover{
+    color: rgb(87, 103, 122);
+}
+.feapa{
+    margin-bottom: 7%;
+}
+
+
+
+
+/* What you get */
+.what-you-get-page{
+    background-image: url("images/background-home-desktop-other-pages.png");
+}
+.list-items{
+    padding: 25px;
+    color: aliceblue;
+}
+.deeplyre{
+    font-size: 20px;
+    color: rgb(97, 239, 192);
+    font-weight: 700;
+    background: -webkit-linear-gradient(45deg, #00ffff, #f700ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.serv{
+    font-family: 'Montserrat', sans-serif;
+}
+.hr2{
+    color: rgb(255, 255, 255);
+    width: 30%;
+    border-style:solid; 
+    border-radius: 10px;
+    border-width: 3px;
+    margin: 30px 0;
+}
+.asttf1{
+    width: 90%;
+}
+
+
+
+
+/* Testimonials */
+#testimonials{
+    background-color: #ffffff;
+
+    text-align: center;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.h2t{
+    color: black;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-image{
+    text-align: center;
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.press{
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.hr3{
+    
+    color: rgb(0, 0, 0);
+    width: 35%;
+    width: 8%;
+    border-style: dotted none none;
+    border-width: 8px;
+    margin-left: 45%;
+}
+
+
+
+/* Pricing plans */
+#pricing{
+    text-align: center;
+    background-image: url("images/background-home-desktop-other-pages.png");
+    padding-bottom: 5%;
+}
+.h2price{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+.pricep{
+    color: black;
+    font-weight: 700;
+}
+.hr2p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    width: 30%;
+    border-style:solid; 
+    border-radius: 10px;
+    border-width: 3px;
+    margin: 5% 0 0 35%;
+}
+
+
+
+/* Footer */
+.h1f{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+.final-image{
+    margin-left:15%;
+    text-align: center;
+    width: 75%;
+    border-radius: 15%;
+}
+.deeplyrel{
+    font-size: 40px;
+    color: rgb(97, 239, 192);
+    font-weight: 700;
+    background: -webkit-linear-gradient(45deg, #00ffff, #f700ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#links{
+    background-image: url("images/background-home-desktop-other-pages.png");
+    padding: 0 15%;
+}
+.social-icons{
+    border: none; 
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px; 
+    transition : 500ms; 
+    transform: translateY(0);
+}
+.social-icons:hover{
+    transition : 500ms; 
+    transform : translateY(-6px);  
+    color: #ffffff; 
+    border: none; 
+}
