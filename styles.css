@@ -1,6 +1,6 @@
 /* TITLE HOMEPAGE */
 #title-page{
-    background-image: url("images/background-home-desktop.jpg");
+    background-image: url("background-home-desktop.jpg");
 }
 .astralword{
     font-family: 'Montserrat', sans-serif;
@@ -133,7 +133,7 @@ p{
 
 /* What you get */
 .what-you-get-page{
-    background-image: url("images/background-home-desktop-other-pages.png");
+    background-image: url("background-home-desktop-other-pages.png");
 }
 .list-items{
     padding: 25px;
@@ -212,7 +212,7 @@ p{
 /* Pricing plans */
 #pricing{
     text-align: center;
-    background-image: url("images/background-home-desktop-other-pages.png");
+    background-image: url("background-home-desktop-other-pages.png");
     padding-bottom: 5%;
 }
 .h2price{
@@ -257,7 +257,7 @@ p{
     -webkit-text-fill-color: transparent;
 }
 #links{
-    background-image: url("images/background-home-desktop-other-pages.png");
+    background-image: url("background-home-desktop-other-pages.png");
     padding: 0 15%;
 }
 .social-icons{
